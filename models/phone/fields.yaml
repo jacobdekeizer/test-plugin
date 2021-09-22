@@ -6,9 +6,11 @@ fields:
 
     name:
         label: Name
+        disabled: true
 
     number:
         label: Number
+        disabled: true
 
     # Record Finder (Default)
     person:
